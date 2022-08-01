@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\NameSurname\NameSurname\bin\Debug\net6.0\NameSurname.exe
+C:\Users\zeynep\source\repos\NameSurname\NameSurname\bin\Debug\net6.0\NameSurname.deps.json
+C:\Users\zeynep\source\repos\NameSurname\NameSurname\bin\Debug\net6.0\NameSurname.runtimeconfig.json
+C:\Users\zeynep\source\repos\NameSurname\NameSurname\bin\Debug\net6.0\NameSurname.dll
+C:\Users\zeynep\source\repos\NameSurname\NameSurname\bin\Debug\net6.0\NameSurname.pdb
+C:\Users\zeynep\source\repos\NameSurname\NameSurname\obj\Debug\net6.0\NameSurname.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\NameSurname\NameSurname\obj\Debug\net6.0\NameSurname.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\NameSurname\NameSurname\obj\Debug\net6.0\NameSurname.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\NameSurname\NameSurname\obj\Debug\net6.0\NameSurname.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\NameSurname\NameSurname\obj\Debug\net6.0\NameSurname.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\NameSurname\NameSurname\obj\Debug\net6.0\NameSurname.dll
+C:\Users\zeynep\source\repos\NameSurname\NameSurname\obj\Debug\net6.0\refint\NameSurname.dll
+C:\Users\zeynep\source\repos\NameSurname\NameSurname\obj\Debug\net6.0\NameSurname.pdb
+C:\Users\zeynep\source\repos\NameSurname\NameSurname\obj\Debug\net6.0\NameSurname.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\NameSurname\NameSurname\obj\Debug\net6.0\ref\NameSurname.dll
